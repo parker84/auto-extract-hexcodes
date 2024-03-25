@@ -1,0 +1,5 @@
+streamlit
+python-decouple
+coloredlogs
+tqdm
+scikit-learn
